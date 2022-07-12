@@ -1,0 +1,30 @@
+[
+{
+ "namadokter": "Dr.Andi, Sp.A",
+ "spesialis": "Spesialis Anak",
+ "rumahsakit": "Rumah Sakit Keluarga Rindu(Bekasi)",
+ "email": "Andi@gmail.com",
+ "gambarDokter": "https://i.imgur.com/DDTN9xA.jpg"
+},
+{
+ "namadokter": "Dr.Sinta",
+ "spesialis": "Dokter Umum",
+ "rumahsakit": "Klinik Rindu(Bekasi)",
+ "email": "sinta@gmail.com",
+ "gambarDokter": "https://i.imgur.com/QVTsxtc.jpg"
+},
+{
+ "namadokter": "Dr.Yulia, Sp.A",
+ "spesialis": "Spesialis Anak",
+ "rumahsakit": "RS Keluarga Rindu(Bekasi)",
+ "email": "Ryul@gmail.com",
+ "gambarDokter": "https://i.imgur.com/A9O8F9S.jpg"
+},
+{
+ "namadokter": "Dr.Randi, Sp PD",
+ "spesialis": "Spesialis penyakit dalam",
+ "rumahsakit": "RSUD A.M Parikesit(Bandung)",
+ "email": "randi@gmail.com",
+ "gambarDokter": "https://i.imgur.com/A6hsl5B.jpg"
+}
+]
